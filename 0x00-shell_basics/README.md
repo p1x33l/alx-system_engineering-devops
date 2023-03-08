@@ -41,5 +41,5 @@ This will run the `pwd` command and display the current working directory.
 11. `10-back`: changes the current directory to the previous one.
 12. `11-lists`: lists all files in the current directory, the parent directory and the /boot directory in long format.
 13. `12-file_type`: determines the type of the file /tmp/iamafile.
-14. `13-symbolic_link`: creates a symbolic link to a /bin/ls named __ls__.
+14. `13-symbolic_link`: creates a symbolic link to a /bin/ls named \_\_ls\_\_.
 15. `14-copy_html`: copies all HTML files in the current directory to a parent directory (only files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory).
